@@ -1,0 +1,2 @@
+This is a note about what I learned in Git Day 3.
+Git helps track changes and collaborate with others.
