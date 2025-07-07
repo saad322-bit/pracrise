@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore Jupyter checkpoint folders
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore dataset files
+*.csv
+*.xlsx
+
+# Ignore model files
+*.pkl
+*.h5
